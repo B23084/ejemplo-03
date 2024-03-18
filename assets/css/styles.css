@@ -1,0 +1,14 @@
+*{
+    margin:0;
+    padding:0;
+}
+.titulo{
+    background-color: rgb(46, 104, 104);
+    max-width: 80%;
+    margin: 0 auto;
+    margin-top: 10px;
+    text-align: center;
+    color: blanchedalmond;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-radius: .3rem;
+}
